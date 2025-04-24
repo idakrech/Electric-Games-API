@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "WRjPL+WagGSbDij0APuH8hdmRPKi2wd9bBqnCZDl0Tp6E4ONzMyYHsGn5c20ic8djkmtdLjykLpzIk9eKGoZNg==",
+  "dgSpecHash": "36J/A7ChBP2s8dlSh4j/JDO4KG0Y5g1EfOfAuA7yx9tjBkiPZLAiQvOcGKnWS/xHbA6/zgCEMlSHLQZ9wk/1Og==",
   "success": true,
   "projectFilePath": "/Users/ida/Desktop/skole/HØST22/Webutvikling/Electric Games/ElectricGamesApi/ElectricGamesApi.csproj",
   "expectedPackageFiles": [
@@ -8,7 +8,7 @@
     "/Users/ida/.nuget/packages/microsoft.data.sqlite.core/6.0.0/microsoft.data.sqlite.core.6.0.0.nupkg.sha512",
     "/Users/ida/.nuget/packages/microsoft.entityframeworkcore/6.0.0/microsoft.entityframeworkcore.6.0.0.nupkg.sha512",
     "/Users/ida/.nuget/packages/microsoft.entityframeworkcore.abstractions/6.0.0/microsoft.entityframeworkcore.abstractions.6.0.0.nupkg.sha512",
-    "/Users/ida/.nuget/packages/microsoft.entityframeworkcore.analyzers/6.0.0/microsoft.entityframeworkcore.analyzers.6.0.0.nupkg.sha512",
+    "/Users/ida/.nuget/packages/microsoft.entityframeworkcore.analyzers/6.0.3/microsoft.entityframeworkcore.analyzers.6.0.3.nupkg.sha512",
     "/Users/ida/.nuget/packages/microsoft.entityframeworkcore.design/6.0.0/microsoft.entityframeworkcore.design.6.0.0.nupkg.sha512",
     "/Users/ida/.nuget/packages/microsoft.entityframeworkcore.relational/6.0.0/microsoft.entityframeworkcore.relational.6.0.0.nupkg.sha512",
     "/Users/ida/.nuget/packages/microsoft.entityframeworkcore.sqlite/6.0.0/microsoft.entityframeworkcore.sqlite.6.0.0.nupkg.sha512",
