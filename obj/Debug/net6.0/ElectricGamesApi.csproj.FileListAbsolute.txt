@@ -1,0 +1,150 @@
+/Users/ida/Desktop/skole/HØST22/Webutvikling/eksam/ElectricGamesApi/bin/Debug/net6.0/appsettings.Development.json
+/Users/ida/Desktop/skole/HØST22/Webutvikling/eksam/ElectricGamesApi/bin/Debug/net6.0/appsettings.json
+/Users/ida/Desktop/skole/HØST22/Webutvikling/eksam/ElectricGamesApi/bin/Debug/net6.0/ElectricGamesApi
+/Users/ida/Desktop/skole/HØST22/Webutvikling/eksam/ElectricGamesApi/bin/Debug/net6.0/ElectricGamesApi.deps.json
+/Users/ida/Desktop/skole/HØST22/Webutvikling/eksam/ElectricGamesApi/bin/Debug/net6.0/ElectricGamesApi.runtimeconfig.json
+/Users/ida/Desktop/skole/HØST22/Webutvikling/eksam/ElectricGamesApi/bin/Debug/net6.0/ElectricGamesApi.dll
+/Users/ida/Desktop/skole/HØST22/Webutvikling/eksam/ElectricGamesApi/bin/Debug/net6.0/ElectricGamesApi.pdb
+/Users/ida/Desktop/skole/HØST22/Webutvikling/eksam/ElectricGamesApi/bin/Debug/net6.0/Humanizer.dll
+/Users/ida/Desktop/skole/HØST22/Webutvikling/eksam/ElectricGamesApi/bin/Debug/net6.0/Microsoft.Data.Sqlite.dll
+/Users/ida/Desktop/skole/HØST22/Webutvikling/eksam/ElectricGamesApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/ida/Desktop/skole/HØST22/Webutvikling/eksam/ElectricGamesApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/ida/Desktop/skole/HØST22/Webutvikling/eksam/ElectricGamesApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/ida/Desktop/skole/HØST22/Webutvikling/eksam/ElectricGamesApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/ida/Desktop/skole/HØST22/Webutvikling/eksam/ElectricGamesApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/ida/Desktop/skole/HØST22/Webutvikling/eksam/ElectricGamesApi/bin/Debug/net6.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/ida/Desktop/skole/HØST22/Webutvikling/eksam/ElectricGamesApi/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/ida/Desktop/skole/HØST22/Webutvikling/eksam/ElectricGamesApi/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/ida/Desktop/skole/HØST22/Webutvikling/eksam/ElectricGamesApi/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/ida/Desktop/skole/HØST22/Webutvikling/eksam/ElectricGamesApi/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/ida/Desktop/skole/HØST22/Webutvikling/eksam/ElectricGamesApi/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+/Users/ida/Desktop/skole/HØST22/Webutvikling/eksam/ElectricGamesApi/bin/Debug/net6.0/Microsoft.Extensions.Logging.dll
+/Users/ida/Desktop/skole/HØST22/Webutvikling/eksam/ElectricGamesApi/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/ida/Desktop/skole/HØST22/Webutvikling/eksam/ElectricGamesApi/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+/Users/ida/Desktop/skole/HØST22/Webutvikling/eksam/ElectricGamesApi/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+/Users/ida/Desktop/skole/HØST22/Webutvikling/eksam/ElectricGamesApi/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/ida/Desktop/skole/HØST22/Webutvikling/eksam/ElectricGamesApi/bin/Debug/net6.0/Mono.TextTemplating.dll
+/Users/ida/Desktop/skole/HØST22/Webutvikling/eksam/ElectricGamesApi/bin/Debug/net6.0/SQLitePCLRaw.batteries_v2.dll
+/Users/ida/Desktop/skole/HØST22/Webutvikling/eksam/ElectricGamesApi/bin/Debug/net6.0/SQLitePCLRaw.core.dll
+/Users/ida/Desktop/skole/HØST22/Webutvikling/eksam/ElectricGamesApi/bin/Debug/net6.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/ida/Desktop/skole/HØST22/Webutvikling/eksam/ElectricGamesApi/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/ida/Desktop/skole/HØST22/Webutvikling/eksam/ElectricGamesApi/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/ida/Desktop/skole/HØST22/Webutvikling/eksam/ElectricGamesApi/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/ida/Desktop/skole/HØST22/Webutvikling/eksam/ElectricGamesApi/bin/Debug/net6.0/System.CodeDom.dll
+/Users/ida/Desktop/skole/HØST22/Webutvikling/eksam/ElectricGamesApi/bin/Debug/net6.0/System.Text.Encodings.Web.dll
+/Users/ida/Desktop/skole/HØST22/Webutvikling/eksam/ElectricGamesApi/bin/Debug/net6.0/System.Text.Json.dll
+/Users/ida/Desktop/skole/HØST22/Webutvikling/eksam/ElectricGamesApi/bin/Debug/net6.0/runtimes/alpine-arm/native/libe_sqlite3.so
+/Users/ida/Desktop/skole/HØST22/Webutvikling/eksam/ElectricGamesApi/bin/Debug/net6.0/runtimes/alpine-arm64/native/libe_sqlite3.so
+/Users/ida/Desktop/skole/HØST22/Webutvikling/eksam/ElectricGamesApi/bin/Debug/net6.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/ida/Desktop/skole/HØST22/Webutvikling/eksam/ElectricGamesApi/bin/Debug/net6.0/runtimes/browser-wasm/nativeassets/net6.0/e_sqlite3.a
+/Users/ida/Desktop/skole/HØST22/Webutvikling/eksam/ElectricGamesApi/bin/Debug/net6.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/ida/Desktop/skole/HØST22/Webutvikling/eksam/ElectricGamesApi/bin/Debug/net6.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/ida/Desktop/skole/HØST22/Webutvikling/eksam/ElectricGamesApi/bin/Debug/net6.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/ida/Desktop/skole/HØST22/Webutvikling/eksam/ElectricGamesApi/bin/Debug/net6.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/ida/Desktop/skole/HØST22/Webutvikling/eksam/ElectricGamesApi/bin/Debug/net6.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/Users/ida/Desktop/skole/HØST22/Webutvikling/eksam/ElectricGamesApi/bin/Debug/net6.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/Users/ida/Desktop/skole/HØST22/Webutvikling/eksam/ElectricGamesApi/bin/Debug/net6.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/ida/Desktop/skole/HØST22/Webutvikling/eksam/ElectricGamesApi/bin/Debug/net6.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/Users/ida/Desktop/skole/HØST22/Webutvikling/eksam/ElectricGamesApi/bin/Debug/net6.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/ida/Desktop/skole/HØST22/Webutvikling/eksam/ElectricGamesApi/bin/Debug/net6.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/ida/Desktop/skole/HØST22/Webutvikling/eksam/ElectricGamesApi/bin/Debug/net6.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/Users/ida/Desktop/skole/HØST22/Webutvikling/eksam/ElectricGamesApi/bin/Debug/net6.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/Users/ida/Desktop/skole/HØST22/Webutvikling/eksam/ElectricGamesApi/bin/Debug/net6.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/Users/ida/Desktop/skole/HØST22/Webutvikling/eksam/ElectricGamesApi/bin/Debug/net6.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/ida/Desktop/skole/HØST22/Webutvikling/eksam/ElectricGamesApi/bin/Debug/net6.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/ida/Desktop/skole/HØST22/Webutvikling/eksam/ElectricGamesApi/bin/Debug/net6.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/ida/Desktop/skole/HØST22/Webutvikling/eksam/ElectricGamesApi/bin/Debug/net6.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/ida/Desktop/skole/HØST22/Webutvikling/eksam/ElectricGamesApi/bin/Debug/net6.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/ida/Desktop/skole/HØST22/Webutvikling/eksam/ElectricGamesApi/bin/Debug/net6.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
+/Users/ida/Desktop/skole/HØST22/Webutvikling/eksam/ElectricGamesApi/obj/Debug/net6.0/ElectricGamesApi.csproj.AssemblyReference.cache
+/Users/ida/Desktop/skole/HØST22/Webutvikling/eksam/ElectricGamesApi/obj/Debug/net6.0/ElectricGamesApi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ida/Desktop/skole/HØST22/Webutvikling/eksam/ElectricGamesApi/obj/Debug/net6.0/ElectricGamesApi.AssemblyInfoInputs.cache
+/Users/ida/Desktop/skole/HØST22/Webutvikling/eksam/ElectricGamesApi/obj/Debug/net6.0/ElectricGamesApi.AssemblyInfo.cs
+/Users/ida/Desktop/skole/HØST22/Webutvikling/eksam/ElectricGamesApi/obj/Debug/net6.0/ElectricGamesApi.csproj.CoreCompileInputs.cache
+/Users/ida/Desktop/skole/HØST22/Webutvikling/eksam/ElectricGamesApi/obj/Debug/net6.0/ElectricGamesApi.MvcApplicationPartsAssemblyInfo.cs
+/Users/ida/Desktop/skole/HØST22/Webutvikling/eksam/ElectricGamesApi/obj/Debug/net6.0/ElectricGamesApi.MvcApplicationPartsAssemblyInfo.cache
+/Users/ida/Desktop/skole/HØST22/Webutvikling/eksam/ElectricGamesApi/obj/Debug/net6.0/staticwebassets.build.json
+/Users/ida/Desktop/skole/HØST22/Webutvikling/eksam/ElectricGamesApi/obj/Debug/net6.0/staticwebassets.development.json
+/Users/ida/Desktop/skole/HØST22/Webutvikling/eksam/ElectricGamesApi/obj/Debug/net6.0/scopedcss/bundle/ElectricGamesApi.styles.css
+/Users/ida/Desktop/skole/HØST22/Webutvikling/eksam/ElectricGamesApi/obj/Debug/net6.0/ElectricGamesApi.csproj.CopyComplete
+/Users/ida/Desktop/skole/HØST22/Webutvikling/eksam/ElectricGamesApi/obj/Debug/net6.0/ElectricGamesApi.dll
+/Users/ida/Desktop/skole/HØST22/Webutvikling/eksam/ElectricGamesApi/obj/Debug/net6.0/refint/ElectricGamesApi.dll
+/Users/ida/Desktop/skole/HØST22/Webutvikling/eksam/ElectricGamesApi/obj/Debug/net6.0/ElectricGamesApi.pdb
+/Users/ida/Desktop/skole/HØST22/Webutvikling/eksam/ElectricGamesApi/obj/Debug/net6.0/ElectricGamesApi.genruntimeconfig.cache
+/Users/ida/Desktop/skole/HØST22/Webutvikling/eksam/ElectricGamesApi/obj/Debug/net6.0/ref/ElectricGamesApi.dll
+/Users/ida/Desktop/skole/HØST22/Webutvikling/eksam/ElectricGamesApi/bin/Debug/net6.0/ElectricGamesApi.staticwebassets.runtime.json
+/Users/ida/Desktop/skole/HØST22/Webutvikling/Electric Games/ElectricGamesApi/bin/Debug/net6.0/appsettings.Development.json
+/Users/ida/Desktop/skole/HØST22/Webutvikling/Electric Games/ElectricGamesApi/bin/Debug/net6.0/appsettings.json
+/Users/ida/Desktop/skole/HØST22/Webutvikling/Electric Games/ElectricGamesApi/bin/Debug/net6.0/ElectricGamesApi.staticwebassets.runtime.json
+/Users/ida/Desktop/skole/HØST22/Webutvikling/Electric Games/ElectricGamesApi/bin/Debug/net6.0/ElectricGamesApi
+/Users/ida/Desktop/skole/HØST22/Webutvikling/Electric Games/ElectricGamesApi/bin/Debug/net6.0/ElectricGamesApi.deps.json
+/Users/ida/Desktop/skole/HØST22/Webutvikling/Electric Games/ElectricGamesApi/bin/Debug/net6.0/ElectricGamesApi.runtimeconfig.json
+/Users/ida/Desktop/skole/HØST22/Webutvikling/Electric Games/ElectricGamesApi/bin/Debug/net6.0/ElectricGamesApi.dll
+/Users/ida/Desktop/skole/HØST22/Webutvikling/Electric Games/ElectricGamesApi/bin/Debug/net6.0/ElectricGamesApi.pdb
+/Users/ida/Desktop/skole/HØST22/Webutvikling/Electric Games/ElectricGamesApi/bin/Debug/net6.0/Humanizer.dll
+/Users/ida/Desktop/skole/HØST22/Webutvikling/Electric Games/ElectricGamesApi/bin/Debug/net6.0/Microsoft.Data.Sqlite.dll
+/Users/ida/Desktop/skole/HØST22/Webutvikling/Electric Games/ElectricGamesApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/ida/Desktop/skole/HØST22/Webutvikling/Electric Games/ElectricGamesApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/ida/Desktop/skole/HØST22/Webutvikling/Electric Games/ElectricGamesApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/ida/Desktop/skole/HØST22/Webutvikling/Electric Games/ElectricGamesApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/ida/Desktop/skole/HØST22/Webutvikling/Electric Games/ElectricGamesApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/ida/Desktop/skole/HØST22/Webutvikling/Electric Games/ElectricGamesApi/bin/Debug/net6.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/ida/Desktop/skole/HØST22/Webutvikling/Electric Games/ElectricGamesApi/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/ida/Desktop/skole/HØST22/Webutvikling/Electric Games/ElectricGamesApi/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/ida/Desktop/skole/HØST22/Webutvikling/Electric Games/ElectricGamesApi/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/ida/Desktop/skole/HØST22/Webutvikling/Electric Games/ElectricGamesApi/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/ida/Desktop/skole/HØST22/Webutvikling/Electric Games/ElectricGamesApi/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+/Users/ida/Desktop/skole/HØST22/Webutvikling/Electric Games/ElectricGamesApi/bin/Debug/net6.0/Microsoft.Extensions.Logging.dll
+/Users/ida/Desktop/skole/HØST22/Webutvikling/Electric Games/ElectricGamesApi/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/ida/Desktop/skole/HØST22/Webutvikling/Electric Games/ElectricGamesApi/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+/Users/ida/Desktop/skole/HØST22/Webutvikling/Electric Games/ElectricGamesApi/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+/Users/ida/Desktop/skole/HØST22/Webutvikling/Electric Games/ElectricGamesApi/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/ida/Desktop/skole/HØST22/Webutvikling/Electric Games/ElectricGamesApi/bin/Debug/net6.0/Mono.TextTemplating.dll
+/Users/ida/Desktop/skole/HØST22/Webutvikling/Electric Games/ElectricGamesApi/bin/Debug/net6.0/SQLitePCLRaw.batteries_v2.dll
+/Users/ida/Desktop/skole/HØST22/Webutvikling/Electric Games/ElectricGamesApi/bin/Debug/net6.0/SQLitePCLRaw.core.dll
+/Users/ida/Desktop/skole/HØST22/Webutvikling/Electric Games/ElectricGamesApi/bin/Debug/net6.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/ida/Desktop/skole/HØST22/Webutvikling/Electric Games/ElectricGamesApi/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/ida/Desktop/skole/HØST22/Webutvikling/Electric Games/ElectricGamesApi/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/ida/Desktop/skole/HØST22/Webutvikling/Electric Games/ElectricGamesApi/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/ida/Desktop/skole/HØST22/Webutvikling/Electric Games/ElectricGamesApi/bin/Debug/net6.0/System.CodeDom.dll
+/Users/ida/Desktop/skole/HØST22/Webutvikling/Electric Games/ElectricGamesApi/bin/Debug/net6.0/System.Text.Encodings.Web.dll
+/Users/ida/Desktop/skole/HØST22/Webutvikling/Electric Games/ElectricGamesApi/bin/Debug/net6.0/System.Text.Json.dll
+/Users/ida/Desktop/skole/HØST22/Webutvikling/Electric Games/ElectricGamesApi/bin/Debug/net6.0/runtimes/alpine-arm/native/libe_sqlite3.so
+/Users/ida/Desktop/skole/HØST22/Webutvikling/Electric Games/ElectricGamesApi/bin/Debug/net6.0/runtimes/alpine-arm64/native/libe_sqlite3.so
+/Users/ida/Desktop/skole/HØST22/Webutvikling/Electric Games/ElectricGamesApi/bin/Debug/net6.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/ida/Desktop/skole/HØST22/Webutvikling/Electric Games/ElectricGamesApi/bin/Debug/net6.0/runtimes/browser-wasm/nativeassets/net6.0/e_sqlite3.a
+/Users/ida/Desktop/skole/HØST22/Webutvikling/Electric Games/ElectricGamesApi/bin/Debug/net6.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/ida/Desktop/skole/HØST22/Webutvikling/Electric Games/ElectricGamesApi/bin/Debug/net6.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/ida/Desktop/skole/HØST22/Webutvikling/Electric Games/ElectricGamesApi/bin/Debug/net6.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/ida/Desktop/skole/HØST22/Webutvikling/Electric Games/ElectricGamesApi/bin/Debug/net6.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/ida/Desktop/skole/HØST22/Webutvikling/Electric Games/ElectricGamesApi/bin/Debug/net6.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/Users/ida/Desktop/skole/HØST22/Webutvikling/Electric Games/ElectricGamesApi/bin/Debug/net6.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/Users/ida/Desktop/skole/HØST22/Webutvikling/Electric Games/ElectricGamesApi/bin/Debug/net6.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/ida/Desktop/skole/HØST22/Webutvikling/Electric Games/ElectricGamesApi/bin/Debug/net6.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/Users/ida/Desktop/skole/HØST22/Webutvikling/Electric Games/ElectricGamesApi/bin/Debug/net6.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/ida/Desktop/skole/HØST22/Webutvikling/Electric Games/ElectricGamesApi/bin/Debug/net6.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/ida/Desktop/skole/HØST22/Webutvikling/Electric Games/ElectricGamesApi/bin/Debug/net6.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/Users/ida/Desktop/skole/HØST22/Webutvikling/Electric Games/ElectricGamesApi/bin/Debug/net6.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/Users/ida/Desktop/skole/HØST22/Webutvikling/Electric Games/ElectricGamesApi/bin/Debug/net6.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/Users/ida/Desktop/skole/HØST22/Webutvikling/Electric Games/ElectricGamesApi/bin/Debug/net6.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/ida/Desktop/skole/HØST22/Webutvikling/Electric Games/ElectricGamesApi/bin/Debug/net6.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/ida/Desktop/skole/HØST22/Webutvikling/Electric Games/ElectricGamesApi/bin/Debug/net6.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/ida/Desktop/skole/HØST22/Webutvikling/Electric Games/ElectricGamesApi/bin/Debug/net6.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/ida/Desktop/skole/HØST22/Webutvikling/Electric Games/ElectricGamesApi/bin/Debug/net6.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/ida/Desktop/skole/HØST22/Webutvikling/Electric Games/ElectricGamesApi/bin/Debug/net6.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
+/Users/ida/Desktop/skole/HØST22/Webutvikling/Electric Games/ElectricGamesApi/obj/Debug/net6.0/ElectricGamesApi.csproj.AssemblyReference.cache
+/Users/ida/Desktop/skole/HØST22/Webutvikling/Electric Games/ElectricGamesApi/obj/Debug/net6.0/ElectricGamesApi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ida/Desktop/skole/HØST22/Webutvikling/Electric Games/ElectricGamesApi/obj/Debug/net6.0/ElectricGamesApi.AssemblyInfoInputs.cache
+/Users/ida/Desktop/skole/HØST22/Webutvikling/Electric Games/ElectricGamesApi/obj/Debug/net6.0/ElectricGamesApi.AssemblyInfo.cs
+/Users/ida/Desktop/skole/HØST22/Webutvikling/Electric Games/ElectricGamesApi/obj/Debug/net6.0/ElectricGamesApi.csproj.CoreCompileInputs.cache
+/Users/ida/Desktop/skole/HØST22/Webutvikling/Electric Games/ElectricGamesApi/obj/Debug/net6.0/ElectricGamesApi.MvcApplicationPartsAssemblyInfo.cs
+/Users/ida/Desktop/skole/HØST22/Webutvikling/Electric Games/ElectricGamesApi/obj/Debug/net6.0/ElectricGamesApi.MvcApplicationPartsAssemblyInfo.cache
+/Users/ida/Desktop/skole/HØST22/Webutvikling/Electric Games/ElectricGamesApi/obj/Debug/net6.0/staticwebassets.build.json
+/Users/ida/Desktop/skole/HØST22/Webutvikling/Electric Games/ElectricGamesApi/obj/Debug/net6.0/staticwebassets.development.json
+/Users/ida/Desktop/skole/HØST22/Webutvikling/Electric Games/ElectricGamesApi/obj/Debug/net6.0/scopedcss/bundle/ElectricGamesApi.styles.css
+/Users/ida/Desktop/skole/HØST22/Webutvikling/Electric Games/ElectricGamesApi/obj/Debug/net6.0/ElectricGamesApi.csproj.CopyComplete
+/Users/ida/Desktop/skole/HØST22/Webutvikling/Electric Games/ElectricGamesApi/obj/Debug/net6.0/ElectricGamesApi.dll
+/Users/ida/Desktop/skole/HØST22/Webutvikling/Electric Games/ElectricGamesApi/obj/Debug/net6.0/refint/ElectricGamesApi.dll
+/Users/ida/Desktop/skole/HØST22/Webutvikling/Electric Games/ElectricGamesApi/obj/Debug/net6.0/ElectricGamesApi.pdb
+/Users/ida/Desktop/skole/HØST22/Webutvikling/Electric Games/ElectricGamesApi/obj/Debug/net6.0/ElectricGamesApi.genruntimeconfig.cache
+/Users/ida/Desktop/skole/HØST22/Webutvikling/Electric Games/ElectricGamesApi/obj/Debug/net6.0/ref/ElectricGamesApi.dll

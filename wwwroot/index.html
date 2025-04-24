@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="no">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="index.css">
+    <title>ElectricGamesApi</title>
+</head>
+<body>
+
+    <header>
+        <h1>Electric Games Api</h1>
+        <h2>Apiet for admin</h2>
+    </header>
+
+    <main>
+        <section>
+
+            <h3>Endepunkter</h3>
+
+            <section>
+                <h4>Game</h4>
+                <ul>
+                    <li>https://localhost:7265/Game - få takk i alle spill</li>
+                    <li>https://localhost:7265/Game/{id} - søk spill etter id</li>
+                    <li>https://localhost:7265/Game/GetGameByTitle/{title} - søk spill etter navn</li>
+                </ul>
+                <h5>Objekt:</h5>
+                    <p>
+                        {
+                        <br>
+                        "id": 0,
+                        <br>
+                        "title": "string",
+                        <br>
+                        "platform": "string",
+                        <br>
+                        "releaseYear": 0,
+                        <br>
+                        "image": "string"
+                        <br>
+                        }
+                    </p>
+            </section>
+
+            <section>
+                <h4>Character</h4>
+                <ul>
+                    <li>https://localhost:7265/Character - få takk i alle karaktere</li>
+                    <li>https://localhost:7265/Character/{id} - søk karakter etter id</li>
+                    <li>https://localhost:7265/Character/GetCharacterByName/{name} - søk karakter etter navn</li>
+                </ul>
+                <h5>Objekt:</h5>
+                    <p>
+                        {
+                            <br>
+                        "id": 0,
+                        <br>
+                        "name": "string",
+                        <br>
+                        "game": "string",
+                        <br>
+                        "image": "string"
+                        <br>
+                        }
+                    </p>
+            </section>
+
+            <section>
+                <h4>ImageUpload</h4>
+                <ul>
+                    <li>https://localhost:7265/ImageUpload - last opp et bilde</li>
+                </ul>
+            </section>
+            
+        </section>
+    </main>
+    
+</body>
+</html>
