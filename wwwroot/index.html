@@ -5,28 +5,28 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="index.css">
-    <title>ElectricGamesApi</title>
+    <title>Electric Games API</title>
 </head>
 <body>
 
     <header>
-        <h1>Electric Games Api</h1>
-        <h2>Apiet for admin</h2>
+        <h1>Electric Games API</h1>
+        <h2>admin API</h2>
     </header>
 
     <main>
         <section>
 
-            <h3>Endepunkter</h3>
+            <h3>📍 Endpoints</h3>
 
             <section>
-                <h4>Game</h4>
+                <h4>🎮 Game</h4>
                 <ul>
-                    <li>https://localhost:7265/Game - få takk i alle spill</li>
-                    <li>https://localhost:7265/Game/{id} - søk spill etter id</li>
-                    <li>https://localhost:7265/Game/GetGameByTitle/{title} - søk spill etter navn</li>
+                    <li>GET https://electric-games-api-production.up.railway.app/Game → Get all games</li>
+                    <li>GET https://electric-games-api-production.up.railway.app/Game/{id} → Get a game by ID</li>
+                    <li>GET https://electric-games-api-production.up.railway.app/Game/GetGameByTitle/{title} → Get a game by title</li>
                 </ul>
-                <h5>Objekt:</h5>
+                <h5>Object structure:</h5>
                     <p>
                         {
                         <br>
@@ -45,13 +45,13 @@
             </section>
 
             <section>
-                <h4>Character</h4>
+                <h4>🧝 Character</h4>
                 <ul>
-                    <li>https://localhost:7265/Character - få takk i alle karaktere</li>
-                    <li>https://localhost:7265/Character/{id} - søk karakter etter id</li>
-                    <li>https://localhost:7265/Character/GetCharacterByName/{name} - søk karakter etter navn</li>
+                    <li>GET https://electric-games-api-production.up.railway.app/Character → Get all characters</li>
+                    <li>GET https://electric-games-api-production.up.railway.app/Character/{id} → Get a character by ID</li>
+                    <li>GET https://electric-games-api-production.up.railway.app/Character/GetCharacterByName/{name} → Get a character by name</li>
                 </ul>
-                <h5>Objekt:</h5>
+                <h5>Object structure:</h5>
                     <p>
                         {
                             <br>
@@ -68,9 +68,9 @@
             </section>
 
             <section>
-                <h4>ImageUpload</h4>
+                <h4>🖼️ Image Upload</h4>
                 <ul>
-                    <li>https://localhost:7265/ImageUpload - last opp et bilde</li>
+                    <li>POST https://electric-games-api-production.up.railway.app/ImageUpload → Upload an image</li>
                 </ul>
             </section>
             
